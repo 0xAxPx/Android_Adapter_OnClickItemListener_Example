@@ -12,8 +12,8 @@ This example includes Array adapter which is used to bind arrays to views.
 </li></ol>
 
 <h3>Example of UI</h3>
-![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/main_activity.png)
+![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/screenshots/main_activity.png)
 <p></p>
-![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/drink_activity.png)
+![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/screenshots/drink_activity.png)
 <p></p>
-![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/latte_view.png)
+![alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/master/app/src/main/res/screenshots/latte_view.png)
