@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example.svg?branch=master)](https://travis-ci.com/github/AlexPeshkov/Android_Adapter_OnClickItemListener_Example)
+
 
 <p>My next step in <b>Android/Java</b> learning was to get familiar with Adapters and Event Listeners concepts</p>
 
