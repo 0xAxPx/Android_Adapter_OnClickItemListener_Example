@@ -10,10 +10,3 @@ or lose the focus or when user presses a button on its device.
 you need to use an adapter <a href="https://developer.android.com/guide/topics/ui/binding?hl=ru">AdapterView</a>. 
 This example includes Array adapter which is used to bind arrays to views.
 </li></ol>
-
-<h3>Example of UI</h3>
-![Alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/feature/travis_build_readme-1/app/src/main/res/screenshots/main_activity.png)
-<p></p>
-![Alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/feature/travis_build_readme-1/app/src/main/res/screenshots/drink_activity.png)
-<p></p>
-![Alt text](https://github.com/AlexPeshkov/Android_Adapter_OnClickItemListener_Example/blob/feature/travis_build_readme-1/app/src/main/res/screenshots/latte_view.png)
